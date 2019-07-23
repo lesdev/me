@@ -1,0 +1,78 @@
+.general_background {
+    background-color: #2D2F31;
+    padding-left: 7%;
+    padding-right: 7%;
+    text-align: center;
+    font-weight: 300;
+    padding-top: 5vh;
+}
+
+.contact-header {
+    color: #D9DADA;
+    margin-bottom: 5vh;
+    text-align: center;
+}
+
+.text-header {
+    font-size: 50px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.text-subheader {
+    font-size: 30px;
+    font-family: 'Major Mono Display', monospace;
+}
+
+.hr_contact {
+    width: 80%;
+    border-top: 1px solid #D9DADA;
+}
+
+.contact-ref {
+    margin-bottom: 5vh;
+    color: white;
+    vertical-align: middle;
+}
+
+ul.nobull {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.list-item-name {
+    font-size: 17px;
+}
+
+.contact-stuff {
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    text-align: center;
+    font-size: 15px;
+}
+
+.span_contact {
+    font-size: 40px;
+    vertical-align: middle;
+    padding-right: 3vh;
+}
+
+.lines {
+    padding-bottom: 4vh;
+}
+
+.size-images {
+    width: 80%;
+}
+
+.body-text {
+    font-family: 'Raleway', sans-serif;
+    color: #D9DADA;
+    margin-bottom: 5vh;
+}
+
+.p-text {
+    font-family: 'Raleway', sans-serif;
+    color: #D9DADA;
+    margin-bottom: 1vh;
+}
